@@ -1,0 +1,36 @@
+nav a {
+    
+    color: white;
+    background-color: darkcyan;
+    padding: 5px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.mRy {
+    color: rgb(5, 145, 98);
+    background-color: white;
+    border: 2px solid darkcyan; 
+}
+header {
+    padding: 20px;
+    border: 5px dotted darkorchid; 
+}
+h1 {
+    color: blueviolet;
+}
+footer{
+    background-color: darkred;
+    padding: 20px;
+    border: 5px double khaki;
+    color: white;
+}
+main img {
+    border: 11px dotted aquamarine;
+}
+main h2{
+    border-bottom: 15px double turquoise;
+    width: 300px;
+}
+p {
+    font-size: 20px;
+}
